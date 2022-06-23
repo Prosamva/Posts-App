@@ -1,0 +1,14 @@
+{
+  "short_name": "Posts App",
+  "name": "Posts App by Samuel Vasamsetti",
+  "icons": [
+    {
+      "src": "pa-favicon.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffb74d",
+  "background_color": "#ffffff"
+}

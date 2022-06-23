@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Karla', sans-serif;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ffb74d;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #000;
+}
+
+body {
+  text-align: start;
+  margin: 0;
+  margin-bottom: 24px;
+  padding: 0;
+  background: #f3f2ef;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
