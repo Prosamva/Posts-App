@@ -46,7 +46,7 @@
     visibility: hidden;
     opacity: 0;
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     transition: all 0.3s ease;
 
 }
